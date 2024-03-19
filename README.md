@@ -1,17 +1,21 @@
 ## 👋 이주현입니다
 
-## 🛠 Education
+## 🌱 Education
 - **삼성청년SW아카데미 10기** (2023.07 ~ )
 
 <br>
 
-## 🛠 Projects
+## 🛠 Stacks
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+
+<br>
+
+## 👯 Projects
 | 프로젝트명  | 역할 | 성과 | 코드 | 
 | ------------- | ------------- | ------------- | ------------- |
 | 코드 오디세이  | `백엔드 개발`  | 공통프로젝트 우수상 수상 | https://github.com/JulieOnIsland/code-odyssey |
 
 <br>
-
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=JulieOnIsland&show_icons=true">
