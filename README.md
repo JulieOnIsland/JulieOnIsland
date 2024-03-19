@@ -1,4 +1,14 @@
-### Hi there 👋
+###  이주현입니다 👋
+
+
+## 🛠 Projects
+| 프로젝트명  | 역할 | 성과 | 코드 | 
+| ------------- | ------------- | ------------- | ------------- |
+| 코드 오디세이  | `백엔드 개발`  | 공통프로젝트 우수상 수상 | https://github.com/JulieOnIsland/code-odyssey |
+
+
+## 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=JulieOnIsland&show_icons=true">
 
 <!--
 **JulieOnIsland/JulieOnIsland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
