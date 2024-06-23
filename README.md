@@ -45,7 +45,6 @@
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=JulieOnIsland&show_icons=true">
-![LeetCode Stats](https://leetcard.jacoblin.cool/julie_on_island?theme=dark&font=East%20Sea%20Dokdo)
 
 
 <!--
