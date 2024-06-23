@@ -1,8 +1,9 @@
 ## 👋 만족을 모르는 ‘그리디’한 개발자 이주현입니다
 
 ## 🌱 Education
+- **University of North Carolina-Chapel Hill, Computer Science Master** (2024.08 - )
 - **중앙대학교 프랑스어문학🇫🇷, 응용통계학과📈 복수전공 Summa Cum Laude** (2020.03 - 2023.08)
-- **삼성청년SW아카데미 10기** (2023.07 ~ )
+- **삼성청년SW아카데미 10기** (2023.07 - 2024.06)
 
 <br>
 
@@ -44,6 +45,8 @@
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=JulieOnIsland&show_icons=true">
+![LeetCode Stats](https://leetcard.jacoblin.cool/julie_on_island?theme=dark&font=East%20Sea%20Dokdo)
+
 
 <!--
 **JulieOnIsland/JulieOnIsland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
