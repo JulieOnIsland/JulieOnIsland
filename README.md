@@ -45,7 +45,8 @@
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=JulieOnIsland&show_icons=true">
-![](https://leetcard.jacoblin.cool/julie_on_island?ext=heatmap)
+
+![](https://leetcard.jacoblin.cool/julie_on_island)
 
 
 <!--
