@@ -37,9 +37,11 @@
 <br>
 
 ## 👯 Projects
-| 프로젝트명  | 역할 | 성과 | 코드 | 
+| Project Name  | Role | Accomplishment | Link | 
 | ------------- | ------------- | ------------- | ------------- |
-| 코드 오디세이  | `백엔드 개발`  | 공통프로젝트 우수상 수상 | https://github.com/JulieOnIsland/code-odyssey |
+| 코드 오디세이 (Code Odyssey)  | `Backend`  | Achieved 2nd place out of 11 teams and implemented Microservices Architecture (MSA) | https://github.com/JulieOnIsland/code-odyssey |
+| 끼리끼리 (Kkiri Kkiri)  | `Backend & AI`  | Developed an image generation function from user prompts using the Stable Diffusion pipeline | https://github.com/JulieOnIsland/kkiri-kkiri |
+| 글그림 (Geulgeurim)  | `Backend & Frontend`  | Built the frontend for webtoon artist portfolio pages using React | https://github.com/JulieOnIsland/geulgeurim |
 
 <br>
 
