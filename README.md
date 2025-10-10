@@ -7,7 +7,7 @@
 
 ## 🎓 Education  
 - **University of North Carolina at Chapel Hill**  
-  *M.S. in Computer Science* (Aug 2024 – Present)  
+  *M.S. in Computer Science* (Aug 2024 – May 2026)  
   Focus: **Machine Learning, AI for Healthcare, and Multimodal Data Integration**
 
 - **Chung-Ang University**  
