@@ -1,15 +1,52 @@
-## 👋 만족을 모르는 ‘그리디’한 개발자 이주현입니다
+## 👋 Hi, I'm Julie — a curious mind building intelligent systems 🤔
 
-## 🌱 Education
-- **University of North Carolina-Chapel Hill, Computer Science Master** (2024.08 - )
-- **중앙대학교 프랑스어문학🇫🇷, 응용통계학과📈 복수전공 Summa Cum Laude** (2020.03 - 2023.08)
-- **삼성청년SW아카데미 10기** (2023.07 - 2024.06)
+## 💡 About Me  
+- 🧠 Combine **data science** and **machine learning** to build AI-driven applications  
+- ⚙️ Experienced in **Python, PyTorch, and LangChain**, with a deep interest in **healthcare and biomedicine**
+- 🚀 Always learning, improving, *hungry* for growth 
 
-<br>
+## 🎓 Education  
+- **University of North Carolina at Chapel Hill**  
+  *M.S. in Computer Science* (Aug 2024 – Present)  
+  Focus: **Machine Learning, AI for Healthcare, and Multimodal Data Integration**
 
-## 🛠 Stacks
+- **Chung-Ang University**  
+  *B.S. in Applied Statistics 📈* (Mar 2020 – Aug 2023)  
+  *Summa Cum Laude*  
 
-<div align=center> 
+- **Samsung Software Academy for Youth (SSAFY)**  
+  *Intensive Software Engineering Program* (Jul 2023 – Jun 2024)  
+  Specialized in backend development & full-stack engineering  
+
+
+## 🛠 Tech Stacks
+**AI / ML:** PyTorch, TensorFlow, LangChain  
+**Programming:** Python, Java, Swift  
+**Databases:** SQL  
+**Tools & Platforms:** Unity, Spring Boot, SwiftUI, Docker, AWS  
+
+## 🎓 Education  
+
+- **University of North Carolina at Chapel Hill**  
+  *M.S. in Computer Science* (Aug 2024 – May 2026)  
+  Focus: **Machine Learning, AI for Healthcare, and Multimodal Data Integration**
+
+- **Chung-Ang University**  
+  B.S. in Applied Statistics 📈 (Mar 2020 – Aug 2023)
+  Summa Cum Laude
+
+- **Samsung Software Academy for Youth (SSAFY)**  
+  *Intensive Software Engineering Program* (Jul 2023 – Jun 2024)  
+  Specialized in backend development & full-stack engineering  
+
+
+## 🛠 Tech Stacks
+**AI/ML:** PyTorch, TensorFlow, LangChain
+**Programming:** Python, Java, Swift
+**Database:** SQL, MongoDB, Redis
+**Tools & Platforms:** Unity, SpringBoot, SwiftUI, Docker, AWS
+
+<!-- <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -32,18 +69,19 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
   <br>
-</div>
+</div> -->
 
-<br>
+
 
 ## 👯 Projects
 | Project Name  | Role | Accomplishment | Link | 
 | ------------- | ------------- | ------------- | ------------- |
+| GoIntern  | `iOS Developer`  | Built a SwiftUI app to track internship applications and integrated GPT-4.1 nano to auto-generate personalized LinkedIn messages | https://github.com/JulieOnIsland/GoIntern |
 | 코드 오디세이 (Code Odyssey)  | `Backend`  | Achieved 2nd place out of 11 teams and implemented Microservices Architecture (MSA) | https://github.com/JulieOnIsland/code-odyssey |
 | 끼리끼리 (Kkiri Kkiri)  | `Backend & AI`  | Developed an image generation function from user prompts using the Stable Diffusion pipeline | https://github.com/JulieOnIsland/kkiri-kkiri |
 | 글그림 (Geulgeurim)  | `Backend & Frontend`  | Built the frontend for webtoon artist portfolio pages using React | https://github.com/JulieOnIsland/geulgeurim |
 
-<br>
+
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=JulieOnIsland&show_icons=true">
