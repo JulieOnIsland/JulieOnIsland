@@ -20,9 +20,9 @@
 
 
 ## 🛠 Tech Stacks
-**AI / ML:** PyTorch, TensorFlow, LangChain  
-**Programming:** Python, Java, Swift  
-**Databases:** SQL  
+**AI / ML:** PyTorch, TensorFlow, LangChain, scikit-learn  
+**Programming:** Python, Java, Swift, R, SAS  
+**Databases:** SQL, MongoDB, Redis  
 **Tools & Platforms:** Unity, Spring Boot, SwiftUI, Docker, AWS  
 
 ## 🎓 Education  
