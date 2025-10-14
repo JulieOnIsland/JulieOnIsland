@@ -41,10 +41,10 @@
 
 
 ## 🛠 Tech Stacks
-**AI/ML:** PyTorch, TensorFlow, LangChain
-**Programming:** Python, Java, Swift
-**Database:** SQL, MongoDB, Redis
-**Tools & Platforms:** Unity, SpringBoot, SwiftUI, Docker, AWS
+**AI/ML:** PyTorch, TensorFlow, LangChain, scikit-learn | 
+**Programming:** Python, Java, Swift |
+**Database:** SQL, MongoDB, Redis | 
+**Tools & Platforms:** Unity, SpringBoot, SwiftUI, Docker, AWS |
 
 <!-- <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
