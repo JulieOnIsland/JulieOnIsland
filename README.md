@@ -25,26 +25,6 @@
 **Databases:** SQL, MongoDB, Redis    
 **Tools & Platforms:** Unity, Spring Boot, SwiftUI, Docker, AWS    
 
-## 🎓 Education  
-
-- **University of North Carolina at Chapel Hill**  
-  *M.S. in Computer Science* (Aug 2024 – May 2026)  
-  Focus: **Machine Learning, AI for Healthcare, and Multimodal Data Integration**
-
-- **Chung-Ang University**  
-  B.S. in Applied Statistics 📈 (Mar 2020 – Aug 2023)
-  Summa Cum Laude
-
-- **Samsung Software Academy for Youth (SSAFY)**  
-  *Intensive Software Engineering Program* (Jul 2023 – Jun 2024)  
-  Specialized in backend development & full-stack engineering  
-
-
-## 🛠 Tech Stacks
-**AI/ML:** PyTorch, TensorFlow, LangChain, scikit-learn | 
-**Programming:** Python, Java, Swift |
-**Database:** SQL, MongoDB, Redis | 
-**Tools & Platforms:** Unity, SpringBoot, SwiftUI, Docker, AWS |
 
 <!-- <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
